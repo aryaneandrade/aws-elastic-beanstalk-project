@@ -74,17 +74,34 @@ A arquitetura contempla:
 
 ## 📷 Capturas de Tela
 
-### Dashboard Elastic Beanstalk
+### 🗂️ Arquitetura da Solução
 
-![Elastic Beanstalk](assets/elastic-beanstalk-dashboard.png)
+![Arquitetura](assets/arquitetura.png)
 
-### Logs no CloudWatch
+---
 
-![CloudWatch Logs](assets/cloudwatch-logs.png)
+### 🚀 Deploy da Aplicação no Beanstalk
 
-### Shell Script de Automação
+![Ambiente Elastic Beanstalk](assets/ambiente.png)
 
-![Shell Script](assets/shell-script-example.png)
+---
+
+### 💻 Aplicação em Execução
+
+![Aplicação](assets/aplicacao.png)
+
+---
+
+### 🛠️ Execução das Migrations para Estruturação do Banco RDS
+
+![Migrations](assets/migrates.png)
+
+---
+
+### 📊 Monitoramento do Ambiente de Desenvolvimento
+
+![Monitoramento](assets/monitoramento.png)
+
 
 ---
 
