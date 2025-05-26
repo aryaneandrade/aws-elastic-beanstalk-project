@@ -1,6 +1,5 @@
 # 🚀 Projeto Elastic Beanstalk com Docker 
 
-Mentoria Desafio Labs 2.0 - Aplicações Gerenciadas e CDN na AWS
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/aryaneandrade/aws-elastic-beanstalk-project)
 ![GitHub stars](https://img.shields.io/github/stars/aryaneandrade/aws-elastic-beanstalk-project?style=social)
